@@ -1,9 +1,12 @@
-<center>
+<div align="center">
 
-# Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration
+# Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration [ACM MM 24]
 
+[Gang Wu (吴刚)](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Junjun Jiang (江俊君)](http://homepage.hit.edu.cn/jiangjunjun), [Kui Jiang (江奎)](https://github.com/kuijiang94), and [Xianming Liu (刘贤明)](http://homepage.hit.edu.cn/xmliu)
 
-</center>
+[AIIA Lab](https://aiialabhit.github.io/team/), Harbin Institute of Technology, Harbin 150001, China.
+
+</div>
 
 ## Overview
 >Deep learning-based all-in-one image restoration methods have garnered significant attention in recent years due to capable of addressing multiple degradation tasks. These methods focus on extracting task-oriented information to guide the unified model and have achieved promising results through elaborate architecture design. They commonly adopt a simple mix training paradigm, and the proper optimization strategy for all-in-one tasks has been scarcely investigated. This oversight neglects the intricate relationships and potential conflicts among various restoration tasks, consequently leading to inconsistent optimization rhythms.
